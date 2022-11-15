@@ -1,5 +1,5 @@
 # Image-Classification
-Image classification into categories using CNN
+Image classification into categories of recyclable and non-recyclable items using CNN
 
 <h3>Measurement of Results</h3>
 
