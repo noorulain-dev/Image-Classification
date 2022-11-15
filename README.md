@@ -1,7 +1,7 @@
 # Image-Classification
 Image classification into categories using CNN
 
--
+.
 
 
 This process is highly important in determining the validity of your model; thus, the appropriate 
